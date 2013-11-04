@@ -1,3 +1,5 @@
+chat
+souris
 mouton
 bélier
 chèvre
