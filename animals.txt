@@ -1,3 +1,6 @@
+mouton
+bélier
 chèvre
 poney
 cheval
+licorne
