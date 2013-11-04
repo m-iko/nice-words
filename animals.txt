@@ -8,4 +8,8 @@ cheval
 licorne
 chien
 éléphant
+poule
+coq
+vache
+taureau
 
