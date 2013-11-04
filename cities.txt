@@ -5,3 +5,9 @@ Namur
 Paris
 Lyon
 Marseille
+
+Budapest
+Luxembourg
+Londres
+Amsterdam
+
