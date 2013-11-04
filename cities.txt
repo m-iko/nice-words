@@ -3,3 +3,5 @@ Brussels
 Liège
 Namur
 Paris
+Lyon
+Marseille
