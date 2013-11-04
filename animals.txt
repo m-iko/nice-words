@@ -6,3 +6,6 @@ chèvre
 poney
 cheval
 licorne
+chien
+éléphant
+
