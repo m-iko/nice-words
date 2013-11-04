@@ -3,3 +3,8 @@ Brussels
 Liège
 Namur
 Paris
+
+Budapest
+Luxembourg
+Londres
+Amsterdam
